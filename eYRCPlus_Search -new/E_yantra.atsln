@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "E_yantra", "E_yantra\E_yantra.cproj", "{EFD30710-0938-4522-BB57-A659306B3690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD30710-0938-4522-BB57-A659306B3690}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EFD30710-0938-4522-BB57-A659306B3690}.Debug|AVR.Build.0 = Debug|AVR
+		{EFD30710-0938-4522-BB57-A659306B3690}.Release|AVR.ActiveCfg = Release|AVR
+		{EFD30710-0938-4522-BB57-A659306B3690}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
